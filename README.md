@@ -5,7 +5,7 @@
 
 - 👨‍💻 My Portfolio is available at [https://dhruvmehta02.netlify.app/](https://dhruvmehta02.netlify.app/)
 
-- 📫 How to reach me **dhruvmehta227@gmail.com**
+- 📫 If you want to reach out to me: **dhruvmehta227@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
